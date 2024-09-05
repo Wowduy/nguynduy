@@ -1,0 +1,15 @@
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\bin\Debug\net6.0\tonghopclassvapt.exe
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\bin\Debug\net6.0\tonghopclassvapt.deps.json
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\bin\Debug\net6.0\tonghopclassvapt.runtimeconfig.json
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\bin\Debug\net6.0\tonghopclassvapt.dll
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\bin\Debug\net6.0\tonghopclassvapt.pdb
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.AssemblyInfoInputs.cache
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.AssemblyInfo.cs
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.dll
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\refint\tonghopclassvapt.dll
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.pdb
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\tonghopclassvapt.genruntimeconfig.cache
+C:\Users\HClaptop\source\repos\tonghopclassvapt\tonghopclassvapt\obj\Debug\net6.0\ref\tonghopclassvapt.dll
