@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BAI TAP LOP TRUU TUONG VA GIAO DIEN/1.0.0": {
+        "runtime": {
+          "BAI TAP LOP TRUU TUONG VA GIAO DIEN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI TAP LOP TRUU TUONG VA GIAO DIEN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
