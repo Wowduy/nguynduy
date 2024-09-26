@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BAIKIEMTRA269/1.0.0": {
+        "runtime": {
+          "BAIKIEMTRA269.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAIKIEMTRA269/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

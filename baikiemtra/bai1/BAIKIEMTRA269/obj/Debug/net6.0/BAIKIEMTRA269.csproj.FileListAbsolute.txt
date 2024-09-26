@@ -1,0 +1,15 @@
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\bin\Debug\net6.0\BAIKIEMTRA269.exe
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\bin\Debug\net6.0\BAIKIEMTRA269.deps.json
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\bin\Debug\net6.0\BAIKIEMTRA269.runtimeconfig.json
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\bin\Debug\net6.0\BAIKIEMTRA269.dll
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\bin\Debug\net6.0\BAIKIEMTRA269.pdb
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.AssemblyInfoInputs.cache
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.AssemblyInfo.cs
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.dll
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\refint\BAIKIEMTRA269.dll
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.pdb
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\BAIKIEMTRA269.genruntimeconfig.cache
+C:\Users\HClaptop\source\repos\BAIKIEMTRA269\BAIKIEMTRA269\obj\Debug\net6.0\ref\BAIKIEMTRA269.dll
