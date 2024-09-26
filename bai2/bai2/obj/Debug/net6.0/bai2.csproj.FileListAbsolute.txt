@@ -1,0 +1,15 @@
+C:\Users\HClaptop\source\repos\bai2\bai2\bin\Debug\net6.0\bai2.exe
+C:\Users\HClaptop\source\repos\bai2\bai2\bin\Debug\net6.0\bai2.deps.json
+C:\Users\HClaptop\source\repos\bai2\bai2\bin\Debug\net6.0\bai2.runtimeconfig.json
+C:\Users\HClaptop\source\repos\bai2\bai2\bin\Debug\net6.0\bai2.dll
+C:\Users\HClaptop\source\repos\bai2\bai2\bin\Debug\net6.0\bai2.pdb
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.AssemblyInfoInputs.cache
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.AssemblyInfo.cs
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.dll
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\refint\bai2.dll
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.pdb
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\bai2.genruntimeconfig.cache
+C:\Users\HClaptop\source\repos\bai2\bai2\obj\Debug\net6.0\ref\bai2.dll
