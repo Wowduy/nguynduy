@@ -1,0 +1,11 @@
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.csproj.SuggestedBindingRedirects.cache
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.Form1.resources
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.Properties.Resources.resources
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.csproj.GenerateResource.cache
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\bin\Debug\nguyendangduywaf.exe.config
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\bin\Debug\nguyendangduywaf.exe
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\bin\Debug\nguyendangduywaf.pdb
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.exe
+C:\Users\HClaptop\source\repos\nguyendangduywaf\nguyendangduywaf\obj\Debug\nguyendangduywaf.pdb
