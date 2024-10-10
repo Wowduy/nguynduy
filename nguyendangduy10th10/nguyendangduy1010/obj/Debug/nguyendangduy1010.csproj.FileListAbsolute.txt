@@ -1,0 +1,11 @@
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\bin\Debug\nguyendangduy1010.exe.config
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\bin\Debug\nguyendangduy1010.exe
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\bin\Debug\nguyendangduy1010.pdb
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.csproj.SuggestedBindingRedirects.cache
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.Form1.resources
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.Properties.Resources.resources
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.csproj.GenerateResource.cache
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.exe
+C:\Users\HClaptop\source\repos\nguyendangduy1010\nguyendangduy1010\obj\Debug\nguyendangduy1010.pdb
