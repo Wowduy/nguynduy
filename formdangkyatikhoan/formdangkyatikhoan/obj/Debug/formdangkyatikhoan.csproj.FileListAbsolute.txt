@@ -1,0 +1,11 @@
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\bin\Debug\formdangkyatikhoan.exe.config
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\bin\Debug\formdangkyatikhoan.exe
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\bin\Debug\formdangkyatikhoan.pdb
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.csproj.SuggestedBindingRedirects.cache
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.Form1.resources
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.Properties.Resources.resources
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.csproj.GenerateResource.cache
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.exe
+C:\Users\HClaptop\source\repos\formdangkyatikhoan\formdangkyatikhoan\obj\Debug\formdangkyatikhoan.pdb
